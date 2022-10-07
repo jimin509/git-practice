@@ -1,0 +1,81 @@
+    1  pwd
+    2  ls
+    3  ls
+    4  cd OSS
+    5  pwd
+    6  ls
+    7  ls
+    8  cd ..
+    9  pwd
+   10  ls
+   11  cd OSS/oss1
+   12  ls
+   13  cd../oss2
+   14  cd ../oss2
+   15  cd /c/user/wojoe/OSS/oss1
+   16  cd /c/User/wojoe/OSS/oss1
+   17  pwd
+   18  cd /c/Users/wojoe/OSS/oss1
+   19  cd ../oss2
+   20  cd /c/Users/wojoe/OSS
+   21  ls -1
+   22  ls -l
+   23  ls -lh
+   24  ls -lh
+   25  ls -l
+   26   cd oss1
+   27  ls -l
+   28  pwd
+   29  cd ..
+   30  pwd
+   31  ls
+   32  cd 1oss/
+   33  pwd
+   34  ls
+   35  cd ..
+   36  ls
+   37  clear
+   38   cd 2oss/
+   39  cp 1oss
+   40  cp -r
+   41  ls
+   42  cd ..
+   43  cp -r
+   44  cp 1oss/
+   45  exit
+   46  cat word.txt
+   47  pwd
+   48  cd /c/Users/wojoe/OSS
+   49  cat words.txt
+   50  cat word.txt
+   51  sort <word.txt> sorted_word.txt
+   52  cat sorted_word.txt
+   53  cat file_list/txt
+   54  ls -lh >> file_list.txt
+   55  cat file_list.txt
+   56  pwd
+   57  ls
+   58  lh
+   59  ls - lh
+   60  ls -lh
+   61  ls -lh | less
+   62  ls -lh | less
+   63  chmod 740 word.txt
+   64  ls -lh
+   65  chmod 644 word.txt
+   66  ls -lh
+   67  chmod 664 word.txt
+   68  ls -lh
+   69  chmod 666 word.txt
+   70  ls -lh
+   71  exit
+   72  pwd
+   73  cd /c/Users/wojoe/OSS
+   74  ls -lh
+   75  nano myscript.sh
+   76  ls -lh
+   77  sh myscrjpt.sh
+   78  sh myscript.sh
+   79  cat history
+   80  history
+   81  history > history_command.txt
