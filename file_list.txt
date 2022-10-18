@@ -1,6 +1,0 @@
-total 2.0K
-drwxr-xr-x 1 wojoe 197609  0 Sep 25 12:55 1oss/
-drwxr-xr-x 1 wojoe 197609  0 Sep 25 12:55 2oss/
--rw-r--r-- 1 wojoe 197609  0 Oct  3 16:45 file_list.txt
--rw-r--r-- 1 wojoe 197609 34 Oct  3 16:44 sorted_word.txt
--rw-r--r-- 1 wojoe 197609 33 Oct  3 16:40 word.txt
