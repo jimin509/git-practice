@@ -4,3 +4,5 @@ home
 new
 lecture
 university
+exam
+lab
